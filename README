@@ -1,0 +1,10 @@
+This PHP package can be used to browse listings of entries split in multiple pages.
+
+The format of records can be MySQL, CSV or plain array.
+
+The class can generate a HTML list with links to browse the listing pages,
+optionally with links to the previous, next, first and last pages.
+
+The URLs and text labels of the links are configurable.
+
+Copyright (C) 2012  Mark Rolich
